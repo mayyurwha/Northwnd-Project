@@ -20,6 +20,7 @@ Perform the following:
  Note: There are 2 SQL files attached to this project. One is to create the tables and load data into the tables, and the other one is the solution to the business questions
 
 Appendix a. 
+The missing data are stored in the missing_files, you need to manually load those into sql using the insert statement. The code to achieve that is also in the northwnd.sql file.
 
 
  
